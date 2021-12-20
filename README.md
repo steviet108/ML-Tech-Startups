@@ -3,4 +3,4 @@ Machine Learning and Neural Networks for Venture Capital Investments into Tech S
 
 
 
-![nn_image](ML-Tech-Startups/NN_Tech/Resources/NN_image.png)
+![nn_image]('NN_Tech/Resources/NN_image.png')
