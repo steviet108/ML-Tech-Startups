@@ -15,10 +15,13 @@ This is an analysis of Organizations that have received funding from Alphabet So
 
 This analysis uses Python 3.7 with the following packages and libraries:
 
--Pandas
--Pathlib
--Tensorflow
--Sklearn
+- Pandas
+
+- Pathlib
+
+- Tensorflow
+
+- Sklearn
 
 
 ## Installation Guide
